@@ -7,6 +7,10 @@ If a user leaves your discord server their roles are removed.
 Currently Discord provides no way of adding these roles when a member rejoins your server.
 This bot makes sure these roles are actually added.
 
+## How does this work?
+When a user joins your server, the bot checks for all roles that were added to that user and never removed.
+These roles will be added to the user.
+
 ## How do I know the bot is working?
 Check the audit log to see which roles were persisted.
 
