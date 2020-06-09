@@ -1,4 +1,4 @@
-# discord-role-persist
+# RolePersist
 A very minimal Discord bot that makes use of persistent roles.
 No databases or logging needed.
 
