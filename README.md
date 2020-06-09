@@ -3,8 +3,8 @@ A very minimal Discord bot that makes use of persistent roles.
 No databases or logging needed.
 
 ## What are persistent roles?
-If a user leaves your discord server their roles are removed.
-Currently Discord provides no way of adding these roles when a member rejoins your server.
+If a user leaves your Discord server, their roles are removed.
+Currently, Discord provides no way of adding these roles when a user joins again.
 This bot makes sure these roles are actually added.
 
 ## How does this work?
