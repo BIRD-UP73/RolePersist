@@ -11,6 +11,6 @@ This bot makes sure these roles are actually added.
 Check the audit log to see which roles were persisted.
 
 ## Will the bot work for all roles in my server?
-No, it will not work for roles that are above the bot's top role.
+No, it will only work for roles that are below the bot's top role.
 The bot is not allowed to work with those roles.
 So the higher you set the bot in your server, the more roles it will work on.
